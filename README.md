@@ -22,13 +22,19 @@ Desenvolver uma plataforma que automatize e organize os processos da ONG **Resga
 site-ong-gatos/
 ├── app/                   # Rotas e páginas da aplicação (Next.js App Router)
 ├── fotos/                 # Imagens e recursos visuais locais
-├── lib/                   # Configurações de bibliotecas de terceiros (ex: cliente do Sanity)
+├── lib/                   # Configurações de bibliotecas de terceiros
 ├── public/                # Arquivos estáticos servidos diretamente na raiz
 ├── types/                 # Definições de tipos e interfaces TypeScript
+├── middleware.ts          # Proteção de rotas do painel admin
 ├── next.config.ts         # Configurações do Next.js
 ├── package.json           # Dependências e scripts do projeto
 └── tsconfig.json          # Configuração do compilador TypeScript
 ```
+
+## 🌐 Deploy (Produção)
+
+A plataforma está disponível online e pode ser acessada através do link:
+**[https://github-resgatas.vercel.app](https://github-resgatas.vercel.app)**
 
 ## 🚀 Como Executar
 
