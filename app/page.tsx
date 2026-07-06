@@ -174,17 +174,7 @@ export default async function Home() {
                 Quero apoiar
               </Link>
             </article>
-            <article className="help-card">
-              <div className="help-icon">💜</div>
-              <h3>Doe via PIX</h3>
-              <p>
-                Doe qualquer valor — cada real faz diferença na vida de uma
-                gatinha.
-              </p>
-              <Link href="/ajudar" className="btn btn-outline">
-                Ver chave PIX
-              </Link>
-            </article>
+
             <article className="help-card">
               <div className="help-icon">🏠</div>
               <h3>Adote uma gatinha</h3>

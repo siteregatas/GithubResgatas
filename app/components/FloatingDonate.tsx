@@ -1,6 +1,6 @@
 "use client";
 
-import Link from "next/link";
+
 import { usePathname } from "next/navigation";
 
 export default function FloatingDonate() {
@@ -10,8 +10,8 @@ export default function FloatingDonate() {
   if (pathname.startsWith("/admin")) return null;
 
   return (
-    <Link href="/ajudar" className="floating-donate">
-      ❤ Doe via PIX
-    </Link>
+    <a href="https://apoia.se/resgatas" target="_blank" rel="noreferrer" className="floating-donate">
+      ❤ Doe via Apoia.se
+    </a>
   );
 }

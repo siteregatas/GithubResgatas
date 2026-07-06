@@ -123,29 +123,7 @@ export default async function Ajudar() {
               </a>
             </article>
 
-            <article className="donation-card">
-              <div
-                className="help-icon"
-                style={{ margin: "0 auto 18px" }}
-              >
-                💜
-              </div>
-              <h2>Doe via PIX</h2>
-              <p>
-                Doe qualquer valor escaneando o QR Code abaixo. Compartilhe
-                com amigos que amam gatinhos!
-              </p>
-              <div className="pix-placeholder">QR PIX</div>
-              <p
-                style={{
-                  fontSize: "0.85rem",
-                  color: "var(--text-muted)",
-                  marginTop: 12,
-                }}
-              >
-                Chave PIX será adicionada em breve
-              </p>
-            </article>
+
 
             <article className="donation-card">
               <div
