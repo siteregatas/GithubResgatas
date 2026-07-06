@@ -124,8 +124,8 @@ export default function Contato() {
                 <div>
                   <strong>Telefone / WhatsApp</strong>
                   <br />
-                  <a href={`https://wa.me/${process.env.NEXT_PUBLIC_WHATSAPP_PHONE || "5547991918029"}`} target="_blank" rel="noreferrer">
-                    (47) 99191-8029
+                  <a href={`https://wa.me/${process.env.NEXT_PUBLIC_WHATSAPP_PHONE || "5547992129083"}`} target="_blank" rel="noreferrer">
+                    (47) 99212-9083
                   </a>
                 </div>
               </div>

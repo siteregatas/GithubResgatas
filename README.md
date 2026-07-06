@@ -1,4 +1,4 @@
-# 🐾 ResgatAS - Plataforma de Adoção e Bem-Estar Felino
+![alt text](image.png)# 🐾 ResgatAS - Plataforma de Adoção e Bem-Estar Felino
 
 **ResgatAS** é uma aplicação web desenvolvida para facilitar a conexão entre gatos resgatados e potenciais adotantes. O projeto visa promover o bem-estar animal através de um sistema de adoção responsável, doação e gestão de eventos beneficentes, além de oferecer conteúdo informativo para a comunidade.
 

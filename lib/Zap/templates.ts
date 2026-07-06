@@ -53,6 +53,6 @@ Aguardo o retorno!`;
  * Gera o link do WhatsApp para o telefone da ONG
  */
 export function getWhatsAppLink(message: string): string {
-  const cleanPhone = process.env.NEXT_PUBLIC_WHATSAPP_PHONE || "5547991918029";
+  const cleanPhone = process.env.NEXT_PUBLIC_WHATSAPP_PHONE || "5547992129083";
   return `https://wa.me/${cleanPhone}?text=${encodeURIComponent(message)}`;
 }
