@@ -75,4 +75,4 @@ Siga os passos abaixo para configurar e rodar o projeto localmente.
 
 ---
 
-**Feito por integrantes do projeto: Hugo Bertoglio, João Guero e Mariah Bork**
+**Feito por integrantes do projeto: Hugo Bertoglio, João Guero, Fabricio Ricardo e Mariah Bork**
